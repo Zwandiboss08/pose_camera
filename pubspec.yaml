@@ -39,6 +39,8 @@ dependencies:
   permission_handler: ^12.0.1
   equatable: ^2.0.7
   flutter_launcher_icons: ^0.14.4
+  gal: ^2.3.2
+  open_filex: ^4.7.0
 
 dev_dependencies:
   flutter_test:
